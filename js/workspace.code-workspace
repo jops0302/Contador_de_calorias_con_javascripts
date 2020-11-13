@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Programación-Funcional-en-JavaScript-por-Bedu"
+		},
+		{
+			"path": "../../../Programación-Funcional-en-JavaScript-por-Bedu/ejercicios"
+		},
+		{
+			"path": "../../../Programación-Funcional-en-JavaScript-por-Bedu/proyecto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Programación-Funcional-en-JavaScript-por-Bedu"
+	}
+}
